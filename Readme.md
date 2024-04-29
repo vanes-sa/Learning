@@ -1,1 +1,0 @@
-Oii, esse projeto visa a apenas a prática para eu aprender a usar o Git
